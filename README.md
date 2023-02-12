@@ -1,4 +1,4 @@
-<h1>Automa o Web e Busca de Informações com Python</h1>
+<h1>Automação o Web e Busca de Informações com Python</h1>
 
 > Status: concluído  🖥️
 
@@ -11,7 +11,7 @@
 + Abrir o navegador.
 + Abrir o google ou outro navegador.
 + Pesquisar a cotação do dólar ou de outra moeda.
-+ Atualizara base de dados.
++ Atualizar a base de dados.
 + Calcular e atualizar os dados da cotação. 
 
 
@@ -30,4 +30,4 @@
 
 2) No código ainda escolha o site de sua preferência, para  ver a cotação da moeda.
 
-3) Após isso só deixar o código rodar.
+3) Após isso, só deixar o código rodar.
